@@ -1,0 +1,2094 @@
+---
+title: "The Craic Pipers – St Patrick's Day"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: darkly
+---
+
+```{=html}
+<style>
+body {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.main-container {
+  max-width: 1800px;
+  width: 98%;
+}
+
+.toc-content {
+  max-width: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.6em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+  border-bottom: 2px solid #333333;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 1.2em;
+}
+
+p, li, td, th, blockquote {
+  color: #ffffff !important;
+}
+
+a {
+  color: #9ad1ff !important;
+}
+
+pre, code {
+  font-family: "JetBrains Mono", "Roboto Mono", "Courier New", monospace !important;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #fff8b0 !important;
+  background-color: #000000 !important;
+  border: 1px solid #333333 !important;
+  padding: 18px;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+pre code {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0;
+}
+
+.tocify {
+  background: #111111 !important;
+  border: 1px solid #222222 !important;
+}
+
+.tocify ul, .tocify li {
+  background: #111111 !important;
+}
+
+.tocify .tocify-item > a {
+  color: #ffffff !important;
+}
+
+.tocify .tocify-item.active > a {
+  background-color: #222222 !important;
+  color: #fff8b0 !important;
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    font-size: 20px;
+  }
+
+  pre, code {
+    font-size: 22px;
+  }
+}
+</style>
+```
+
+# Set Lists
+
+## Set 1
+
+1. Streams of Whisky
+2. Shipping Up To Boston
+3. Black Velvet Band
+4. Drunken Sailor
+5. Whisky in the Jar
+6. Rocky Road to Dublin
+7. Dirty Old Town
+8. Fairytale of New York
+9. Carraroe Jig
+10. Sally McLennan
+11. The Auld Triangle
+12. The Boys from the County Hell
+13. Cockles and Mussels
+14. Drunken Lullabies
+
+## Set 2
+
+1. Old Hag
+2. The Irish Rover
+3. All For Me Grog
+4. A Pair of Brown Eyes
+5. The Rare Auld Mountain Dew
+6. 100 Pints
+7. Wild Rover
+8. I’ll Tell Me Ma
+9. Toss the Feathers
+10. The Fields of Athenry
+11. Seven Drunken Nights
+12. The Rattlin’ Bog
+13. The Parting Glass
+
+# Songs
+
+## Streams of Whisky
+
+```
+[Verse]
+     D                  G                  D
+Last night as I slept I dreamed I met with Behan
+                               G                  A
+I shook him by the hand and we passed the time of day
+     D                              G              D
+When questioned on his views on the crux of life's philosophies
+   D                 G         A               D
+He had but these few clear and simple words to say
+[Chorus]
+I am going, I am going, Any which way the wind may be blowing
+I am going, I am going, Where streams of whiskey are flowing
+[Verse]
+I have cursed, bled and sworn, Jumped bail and landed up in jail
+Life has often tried to stretch me, but the rope always was slack
+And now that I've a pile, I'll go down to the Chelsea
+I'll walk in on my feet, but I'll leave there on my back
+[Chorus]
+I am going, I am going, Any which way the wind may be blowing
+I am going, I am going, Where streams of whiskey are flowing
+[Instrumental]
+D      D      D      G    A D      D      D      G    D
+[Verse]
+Oh the words that he spoke, seemed the wisest of philosophies
+There's nothing ever gained by a wet thing called a tear
+When the world is too dark and I need the light inside of me
+I'll walk into a bar and drink fifteen pints of beer
+[Chorus]
+I am going, I am going, Any which way the wind may be blowing
+I am going, I am going, Where streams of whiskey are flowing
+[Outro]
+D      D      D      G    A D      D      D      G    D
+```
+
+## Shipping Up To Boston
+
+```
+[Verse]
+
+E
+I'm a sailor peg, and I lost my leg
+E                            D       A
+I climbed up the topsails, I lost my leg!
+[Interlude]
+E E  E
+D A E D E D A
+D A E D E D A
+[Chorus]
+D                          C        G
+I'm shipping up to Boston,(whoa oh oh)
+I'm shipping up to Boston,(whoa oh oh)
+I'm shipping up to Boston,(whoa oh oh)
+D                   C       G      E
+I'm shipping off to find my wooden leg!
+```
+
+## Black Velvet Band
+
+```
+  G                          G             G                     D
+In a neat little town they call Belfast, apprenticed to trade I was bound
+     G                       Em           C             D           G
+And many's the hour of sweet happiness, I spent in that neat little town
+      G                  G              G                           D
+Till sad misfortune came over me, which caused me to stray from the land
+      G                          Em         C           D            G
+Far away from me friends and relations, betrayed by the black velvet band
+          G                   G           G                             D
+     Her eyes they shone like diamonds, I thought her the queen of the land
+              G                    Em             C         D            G
+     And her hair it hung over her shoulder, tied up with a black velvet band
+
+   G                      G                       G                    D
+I took a stroll with this pretty fair maid, and a gentleman passing us by
+   G                    Em                 C           D             G
+I knew she meant the undoing of me, by the look in her roguish black eye
+  G                            G               G                       D
+A gold watch she took from his pocket, and she placed it right into me hand
+        G                       Em               C           D             G
+And the very first thing that I thought was, bad luck to the black velvet band
+
+          G                   G           G                             D
+     Her eyes they shone like diamonds, I thought her the queen of the land
+              G                    Em             C         D            G
+     And her hair it hung over her shoulder, tied up with a black velvet band
+
+       G                 G            G                  D
+Now before a judge and a jury, next morning I had to appear
+       G                Em                  C       D      G
+Oh the judge he said to me "Young man, your case is proven clear
+      G                           G                G                       D
+We'll give you seven years' penal servitude, to be spent far away from the land.
+     G                            Em           C          D            G
+Far away from your friends and relations, betrayed by the black velvet band
+
+          G                   G           G                             D
+     Her eyes they shone like diamonds, I thought her the queen of the land
+              G                    Em             C         D            G
+     And her hair it hung over her shoulder, tied up with a black velvet band
+
+
+   G                       G              G               D
+So come all ye jolly young fellows, and a warning take by me
+    G                       Em                C          D      G
+For when you are out on the town me lads, beware of them pretty colleens
+            G                    G                       G                   D
+For they'll feed you with strong ale "More Yeah", until you are unable to stand
+         G                       Em                      C         D            G
+And the very next thing that you know me lads, is you've landed in Van Diemen's Land
+
+          G                   G           G                             D
+     Her eyes they shone like diamonds, I thought her the queen of the land
+              G                    Em             C         D            G
+     And her hair it hung over her shoulder, tied up with a black velvet band
+          G                   G           G                             D
+     Her eyes they shone like diamonds, I thought her the queen of the land
+              G                    Em             C         D            G
+     And her hair it hung over her shoulder, tied up with a black velvet band
+```
+
+## Drunken Sailor
+
+```
+What will we do with a drunken sailor?
+What will we do with a drunken sailor?
+What will we do with a drunken sailor?
+Early in the morning
+[Chorus]
+Em
+Way hay and up she rises
+D
+Way hay and up she rises
+Em
+Way hay and up she rises
+G     D      Em
+Early in the morning
+[Verse 2]
+Shave his belly with a rusty razor
+Shave his belly with a rusty razor
+Shave his belly with a rusty razor
+Early in the morning
+[Chorus]
+[Verse 3]
+Put him in a longboat till he's sober
+Put him in a longboat till he's sober
+Put him in a longboat till he's sober
+Early in the morning
+[Chorus]
+[Verse 4]
+Stick him in a scupper with a hosepipe on him
+Stick him in a scupper with a hosepipe on him
+Stick him in a scupper with a hosepipe on him
+Early in the morning
+[Chorus]
+[Verse 5]
+Put him in the bed with the captain's daughter
+Put him in the bed with the captain's daughter
+Put him in the bed with the captain's daughter
+Early in the morning
+[Chorus]
+[Verse 6]
+That's what we do with a drunken sailor
+That's what we do with a drunken sailor
+That's what we do with a drunken sailor
+```
+
+## Whisky in the Jar
+
+```
+[Verse]
+   D                    Bm
+As I was going over the far fam'd Kerry Mountains,
+  G                                D            A
+I met with Captain Farrel, and his money he was countin',
+  D                               Bm
+I first produced my pistol, and I than produced my rapier,
+         G                         D
+Sayin': "Stand and deliver for you are a bold deceiver".
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+
+[Verse]
+   D                    Bm
+I counted out his money and it made a pretty penny,
+  G                                D            A
+I put it in my pocket, and I took it home to Jenny,
+  D                               Bm
+She sighed, and she swore that she never would deceive me,
+        G                         D
+But the devil take the women for they never can be easy.
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+
+[Verse]
+   D                    Bm
+I went into my chamber all for to take a slumber,
+  G                                D            A
+I dreamt of gold and jewels and for sure it was no wonder,
+  D                               Bm
+But Jenny drew my charges and she filled them out with water,
+        G                         D
+Then sent for Captain Farrel, to be ready for the slaughter.
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+
+[Verse]
+   D                    Bm
+'Twas early in the morning just before I rose to travel,
+  G                                D            A
+Up comes a band of footmen and likewise, Captain Farrel,
+  D                               Bm
+I first produced my pistol for she stole away my rapier,
+        G                         D
+But I couldn't shoot the water, so a prisoner I was taken.
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+
+[Instrumental]
+G  Em  G  D
+G  Em  C  G
+
+[Verse]
+   D                    Bm
+Now there's some take delight in the carriages a rolling
+  G                                D            A
+and others take delight in the hurling and the bowling
+  D                               Bm
+but I take delight in the juice of the barley
+        G                         D
+and courting pretty fair maids in the morning bright and early
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+
+[Instrumental]
+G  Em  G  D
+G  Em  C  G
+
+[Verse]
+   D                    Bm
+If anyone can aid me 'tis my brother in the army,
+  G                                D            A
+If I can find his station, in Cork or in Killarney,
+  D                               Bm
+And if he'll go with me we'll go roving in Kilkenny,
+        G                         D
+And I'm sure he'll treat me better than my old a-sporting Jenny.
+
+[Chorus]
+      A
+Musha ring dum a doo dum a da,
+D
+Whack for the daddy ol',
+G
+Whack for the daddy ol',
+        D       A      D
+There's whiskey in the jar.
+```
+
+## Rocky Road to Dublin
+
+```
+Dm  C
+While in the merry month of May from my home I started,
+left the girls of Tuam nearly broken hearted,
+saluted father dear, kissed me darling mother,
+drank a pint of beer me grief and fears to smother,
+Then off to reap the corn,
+and leave where I was born,
+cut a stout blackthorn
+to banish ghosts and goblin
+in a brand new pair of brogues
+I rattled o'er the bogs
+and frightened all the dogs
+on the Rocky road to Dubilin,
+One, Two, Three, Four, Five!
+Hunt the hare and turn her down the rocky road
+and all the ways to Dubilin, whack fol-al-derol.
+
+In Mullingar that night I rested limbs so weary
+started by daylight next morning light and airy,
+Took a drop o' the pure, to keep me heart from sinkin',
+that's the Paddy's cure whenever he's on for drinkin'.
+To see the lassies smile,
+laughin' all the while,
+At me curious style,
+'twould set your heart a-bubblin',
+They ax'd if I was hired,
+the wages I required,
+Till I was almost tired
+of the rocky road to Dublin.
+One, Two, Three, Four, Five!
+Hunt the hare and turn her down the rocky road
+and all the ways to Dubilin, whack fol-al-de-rol.
+
+In Dublin next arrived I thought it such a pity
+to be so soon deprived a view of that fine city,
+then I took a stroll, all among the quality,
+me bundle it was stole in a neat locality;
+Something cross me mind,
+then I looked behind,
+no bundle could I find
+upod me stick a-wobblin',
+Enquirin' after the rogue,
+they said me Connacht brogue
+wasn't much in vogue,
+on the rocky road to Dubilin.
+One, Two, Three, Four, Five!
+Hunt the hare and turn her down the rocky road
+and all the ways to Dubilin, whack fol-al-de-rol.
+
+>From there I got away, me spirits never failin',
+landed on a quay just as the ship was sailin',
+captain at me roared, said no room had he,
+when I jumped aboard, a cabin found for Paddy
+down among the pigs,
+I skipped some funny rigs,
+I played some hearty jigs,
+the water round me bubblin',
+when off Holyhead,
+I wished meself was dead,
+Or, better, far instead,
+on the rocky road to Dublin.
+One, Two, Three, Four, Five!
+Hunt the hare and turn her down the rocky road
+and all the ways to Dubilin, whack fol-al-de-rol.
+
+The boys of Liverpool, when we safely landed,
+call meself a fool, I could no longer stand it,
+blood began to boil, temper I was loosin',
+poor ould Erin's isle they began abusin',
+"Hurrah me soul!", says I,
+my shillelagh I let fly,
+some Galway boys were by,
+saw I was a hobblin',
+then with loud hurray,
+they joined in the affray,
+we quickly cleared the way
+for the rocky road to Dubilin.
+One, Two, Three, Four, Five!
+Hunt the hare and turn her down the rocky road
+and all the ways to Dubilin, whack fol-al-de-rol.
+```
+
+## Dirty Old Town
+
+```
+D   | D   | D   | D   |
+| G   | G   | D   | D   |
+| Em  | Em  | Bm  | Bm
+
+[Verse 1] (key change)
+          G
+I met my love by the gas works wall
+           C                 G
+Dreamed a dream by the old canal
+             G
+I kissed my girl by the factory wall
+          D               Em
+Dirty old town, dirty old town
+
+[Verse 2]
+            G
+Clouds are drifting across the moon
+          C                G
+Cats are prowling on their beat
+           G
+Springs a girl from the streets at night
+          D               Em
+Dirty old town, dirty old town
+
+           G
+I heard a siren from the docks
+       C                     G
+Saw a train set the night on fire
+              G
+I smelled the spring on the smoky wind
+          D               Em
+Dirty old town, dirty old town
+
+[Verse 4]
+           G
+I'm gonna make me a big sharp axe
+        C                     G
+Shining steel tempered in the fire
+               G
+I'll chop you down like an old dead tree
+          D               Em
+Dirty old town, dirty old town
+
+[Verse 5]
+          G
+I met my love by the gas works wall
+           C                 G
+Dreamed a dream by the old canal
+             G
+I kissed my girl by the factory wall
+          Am              Em
+Dirty old town, dirty old town
+          D               Em
+Dirty old town, dirty old town
+```
+
+## Fairytale of New York
+
+```
+Capo 2nd fret
+
+INTRO F  C  G  C
+
+[Verse 1]
+                 C                F
+It was Christmas Eve babe, in the drunktank
+           C                     G
+An old man said to me, won't see another one
+            C                         F
+And then he sang a song, The Rare Old Mountain Dew
+            C                     G     C
+I turned my face away and dreamed about you
+[Verse 2]
+         C                      F
+Got on a lucky one, came in eighteen to one
+           C                       G
+I've got a feeling this year's for me and you
+         C                    F
+So happy Christmas, I love you baby
+            C                         G          C
+I can see a better time when all our dreams come true
+
+INTRO RIFF  F  C  G  C
+
+C G Am F C C C G
+
+[Verse 3]
+            C
+They've got cars
+       G
+Big as bars
+            Am        F
+They've got rivers of gold
+        C
+But the wind goes right through you
+                      G
+It's no place for the old
+         C             Am
+When you first took my hand
+     C              F
+On a cold Christmas Eve
+    C
+You promised me
+             G           C
+Broadway was waiting for me
+[Verse 4]
+         C
+You were handsome
+
+You were pretty
+                  G
+Queen of New York City
+         C             F
+When the band finished playing
+     G              C
+They howled out for more
+C
+Sinatra was swinging
+                         G
+All the drunks they were singing
+   C             F
+We kissed on the corner
+     G                  C
+Then danced through the night
+
+    F                G
+The boys of the NYPD choir
+     C               Am
+Were singing 'Galway Bay'
+        C          F
+And the bells were ringing
+G                 C
+Out for Christmas Day
+
+INTRO RIFF  F  C  G  C
+
+C G Am F C C C G
+[Verse 5]
+         C
+You're a bum
+
+You're a punk
+                      G
+You're an old slut on junk
+      C            F
+Lying there almost dead
+     G            C
+on a drip in that bed
+    C
+You scum bag
+
+You maggot
+                G
+You cheap lousy faggot
+      C              F
+Happy Christmas your arse
+       G
+I pray God
+         C
+It's our last
+
+       F             G
+The boys of the NYPD choir
+       C              Am
+Still singing `Galway Bay`
+        C         F
+And the bells are ringing
+G                 C
+Out for Christmas Day
+[Verse 6]
+             C                            F
+I could have been someone, well, so could anyone
+            C                           G
+You took my dreams from me when I first found you
+            C                        F
+I kept them with me babe, I put them with my own
+              C                               G      C
+Can't make it all alone, I've built my dreams around you
+
+       F             G
+The boys of the NYPD choir
+      C               Am
+Still singing `Galway Bay`
+        C         F
+And the bells are ringing
+G                 C
+Out for Christmas Day
+```
+
+## Carraroe Jig
+
+```
+D  D  D  DA
+D  D  D  DA
+DA  G  D  A
+DA  G  D  DA
+```
+
+## Sally McLennan
+
+```
+[Intro]         G       D        A     D
+[Verse 1]
+     D                             G               D
+Well Jimmy played harmonica in the pub where I was born
+   D                                    G              A
+He played it from the night-time to the peaceful early morn
+   G                                D               A
+He soothed souls of psychos and the men who had the horn
+         D               G            A  D
+And they all looked very happy in the morning
+
+    D                           G                D
+But Jimmy didn't like his place in this world of ours
+          D                                               G            A
+Where the elephant man broke strong men's necks when he'd had too many powers
+   G                              D             A
+So sad to see the grieving of the people he was leaving
+       D                 G                A  D
+And he took the road for God knows in the morning
+
+[Chorus]
+   D                 G              D
+We walked him to the station in the rain
+   D                G              A
+We kissed him as we put him on the train
+       G          D                  G
+And we sang him a song of times long gone
+          D                 A           D    A      D
+Though we knew that we'd be seeing him again, (far away!)
+(D)
+Sad to say I must be on my way
+   G               D                  A                     D
+So buy me beer and whiskey 'cause I'm going far away, (far away!)
+    (D)
+I'd like to think I'll be returning when I can
+       G               D             A           D
+To the greatest little boozer and to Sally MacLennane
+
+[Verse 2]
+    D                                       G            D
+The years passed by the times had changed I grew to be a man
+  D                                    G          A
+I learned to love the virtues of sweet Sally MacLennane
+  G                                        D                    A
+I took the jeers and drank the beers and I crawled back home at dawn
+    D          G             A  D
+And ended up a barman in the morning
+   D                                    G               D
+I plied the pump and took the hump and watered whiskey down
+  D                                  G                 A
+I talked of whores and horses to the men who drank the brown
+  G                                  D          A
+I heard them say that Jimmy's making money far away
+     D               G              A  D
+Some people left for heaven without warning
+
+[Chorus]
+
+[Instrumental]
+G  D  A  D
+
+[Verse 3]
+     D                              G                     D
+When Jimmy came back home he was surprised that they were gone
+   D                               G                    A
+He asked me all the details of the train that they went on
+     G                                   D             A
+Some people they are scared to croak but Jimmy drank until he choked
+    D                 G             A  D
+And took the road for heaven in the morning
+
+[Chorus]
+
+[Outro]
+G  D  A  D  (x2)
+```
+
+## The Auld Triangle
+
+```
+D
+A hungry feeling
+Came o'er me stealing
+And the mice were squeeling
+In my prison cell
+
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+
+Oh! To start the morning
+The warden bawling
+"Get up out of bed, you!
+And Clean out your cell!"
+
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+
+Oh! the screw was peeping
+And the loike was sleeping
+As he lay weeping
+For his girl Sal
+
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+
+On a fine Spring evening
+The loike lay dreaming
+And the sea-gulls were wheeling
+High above the wall
+
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+
+Oh! the wind was sighing
+And the day was dying
+As the loike lay crying
+In his prison cell
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+
+In the women's prison
+There are seventy women
+And I wish it was with them
+That I did dwell
+
+And that auld triangle went jingle-jangle
+All along the banks of the Royal Canal
+```
+
+## The Boys from the County Hell
+
+```
+[Opening] (banjo part)
+
+e|-------|-----------------------|---------------------|-----------------------|-------
+B|-0--3--|-5-----------5-5-5--3--|-0-------------0--3--|-5-----------5-5-5--3--|-5-----
+G|-------|-----------------------|---------------------|-----------------------|-------
+D|-------|-----------------------|---------------------|-----------------------|-------
+A|-------|-----------------------|---------------------|-----------------------|-------
+E|-------|-----------------------|---------------------|-----------------------|-------
+
+e|--------------|-----------------------|-----------------------|------12\10-----12----
+B|-5--5-5-5----3--5--0----|-----------------------|-----------------------|------------12
+G|------------------------|-4--2--0---------------|----4----------2-------|------------
+D|------------------------|----------4--2---------|-5-----5----4-----4----|-2----------
+A|------------------------|-----------------------|-----------------------|------------
+E|------------------------|-----------------------|-----------------------|------------
+
+[Intro]
+
+|Em  |Em  |Em  |Em  |Em  |Em  |Em  G|D  Em D Em |
+
+       Em
+On the first day of march it was raining
+                                        Am
+It was raining worse than anything that I have ever seen
+                                G
+I drank ten pints of beer and I cursed all the people there
+                                                            Em
+And I wish that all this raining would stop falling down on me
+
+         G                                     D
+And it's lend me ten pounds and I'll buy you a drink
+    G              D            Em
+And mother wake me early in the morning
+
+At the time I was working for a landlord
+And he was the meanest bastard that you have ever seen
+And to lose a single penny would grieve him awful sore
+And he was a miserable bollocks and a bitch's bastard's whore
+
+Chorus
+[Instrumental Verse]
+Chorus
+
+I recall that we took care of him one Sunday
+We got him out the back and we broke his fucking balls
+And maybe that was dreaming and maybe that was real
+But all I know is I left the place without a penny or fuck all
+Chorus
+And now I've the most charming of verandahs
+I sit and watch the junkies, the drunks and pimps and whores
+Five green bottles are sitting on the floor
+And I wish to Christ I wish to Christ that I had fifteen more
+Chorus
+
+(Repeat Banjo part)
+[Instrumental]
+|Em  |Em  |Em  |Em  |Em  |Em  |Em  G|D  EmD Em |
+Chorus
+The boys and me are drunk and looking for you
+We'll eat your frigging entrails and we won't give a damn
+Me daddy was a blueshirt and my mother a madam
+My brother earned his medals at Mỹ Lai in Vietnam
+Chorus
+On the first day of march it was raining
+It was raining worse than anything that I have ever seen
+Stay on the other side of the road 'cause you can never tell
+We've a thirst like a gang of devils we're the boys from the county hell
+Chorus x2
+```
+
+## Cockles and Mussels
+
+```
+[Verse 1]
+D                Bm              Em           A
+In Dublin's fair city, where the girls are so pretty
+  D            Bm            Em      A
+I first set my eyes on sweet Molly Malone
+       D                 Bm
+As she wheeled her wheel-barrow
+        Em                A
+Through streets broad and narrow
+       D           Bm        A           D
+Crying cockles and mussels, alive, alive-O!
+ [Chorus]
+D           Bm   Em          A
+Alive, alive-O! alive, alive-O!
+       D           Bm        A           D
+Crying cockles and mussels, alive, alive-O!
+[Verse 2]
+D              Bm          Em            A
+She was a fish-monger, but sure 'twas no wonder
+    D           Bm         Em       A
+For so were her father and mother before
+         D                  Bm
+And they each wheeled their barrow
+        Em                A
+Through streets broad and narrow
+       D           Bm        A           D
+Crying cockles and mussels, alive, alive-O!
+[Chorus]
+[Verse 3]
+    D         Bm         Em           A
+She died of a fever, and no one could save her
+    D            Bm           Em      A
+And that was the end of sweet Molly Malone
+        D                Bm
+But her ghost wheels her barrow
+        Em                A
+Through streets broad and narrow
+       D           Bm        A           D
+Crying cockles and mussels, alive, alive-O!
+[Chorus]
+```
+
+## Drunken Lullabies
+
+```
+[Intro]
+| D   | G D | D   | A   |
+| D   | G D | D A | D   |   X2
+[Verse 1]
+        D                D
+Must it take a life for hateful eyes
+   Bm             Bm
+To glisten once again
+     G                  G
+Five hundred years like Gelignite
+     Bm              A
+Have blown us all to hell (to hell!)
+     D                           D
+What savior rests while on his cross we die
+   Bm             Bm
+Forgotten freedom burns
+        G                G
+Has the Shephard led his lambs astray
+       Bm            A
+to the bigot and the gun
+
+[Chorus]
+        G               D
+Must it take a life for hateful eyes
+    G              A
+To glisten once again
+         D        G                     Bm
+Cause we find ourselves in the same old mess
+        D       A    D
+Singin' drunken lullabies
+
+[Post-chorus]
+| D   | G D | D   | A   |
+| D   | G D | D A | D   |
+
+[Verse 2]
+  D                   D
+I watch and stare as Rosin`s eyes
+         Bm            Bm
+Turn a darker shade of red
+         G               G
+And the bullet with this sniper lie
+         Bm              A
+In their bloody gutless cell
+         D                    D
+Must we starve on crumbs from long ago
+              Bm                Bm
+Through these bars of men made steel
+          G                        G
+Is it a great or little thing we fought
+          Bm                    A
+Knelt the conscience blessed to kill
+
+[Chorus]
+        G               D
+Must it take a life for hateful eyes
+    G              A
+To glisten once again
+         D        G                     Bm
+Cause we find ourselves in the same old mess
+        D       A    D
+Singin' drunken lullabies
+
+[Bridge]
+        G              A         D
+Ah, but maybe it`s the way we're taught
+   G              A      D
+Or maybe it`s the way we fought
+      G           A             D        G
+But a smile never grins without tears to begin
+         G         A          D    D
+For each kiss is a cry we all lost
+       G               D
+Though nothing left to gain
+            G                      A
+But for the banshee that stole the grave
+         D        G                     Bm
+Cause we find ourselves in the same old mess
+        D       A    D
+Singin' drunken lullabies (right!)
+
+[Solo]
+| D   | G D | D   | A   |
+| D   | G D | D A | D   |
+| G   | Bm  | G   | A   |
+| D G | Bm  | D A | D   |
+
+[Verse 3]
+   D                  D
+I sit in and dwell on faces past
+     Bm               Bm
+Like memories seem to fade
+      G            G
+No color left but black and white
+    Bm                  A
+And soon will all turn grey
+              D               D
+But may these shadows rise to walk again
+      Bm           Bm
+With lessons truly learnt
+         G                  G
+When the blossom flowers in each our hearts
+      Bm               A
+Shall beat a new found flame (the flame!)
+
+[Chorus]
+        G               D
+Must it take a life for hateful eyes
+    G              A
+To glisten once again
+         D        G                  Bm
+Cause we find ourselves in the same old mess
+        D       A    D
+Singin' drunken lullabies
+
+[Outro]
+         D        G                     Bm
+Cause we find ourselves in the same old mess
+        D       A    D
+Singin' drunken lullabies
+        D           A       D   A  D DAD
+Singin' drunken... lul... abies
+```
+
+## Old Hag
+
+```
+G///		G/Em/
+G///		G/Em/
+G///		G/Em/
+G///		G/Em/
+
+
+D///		G//Em
+D///		G/Em G
+D///		G//Em
+D///		G/Em G
+
+
+D///		D/GC
+D///		D/GC
+D///		D/GC
+D///		D/GC
+
+
+D///		/ / G Em
+D///		/ / G Em
+D///		/ / G Em
+D///		/ / G Em
+
+
+D///		D/ G C
+D///		D/ Am C
+D///		D/ G C
+D///		D/ Am C
+D///
+```
+
+## The Irish Rover
+
+```
+Capo 2
+[Verse 1]
+           G
+    On the Fourth of July, eighteen
+C
+hundred and six
+           G                           D
+    We set sail from the sweet Cobh of Cork
+            G
+    We were sailing away with a cargo of C bricks
+            G          D           G
+    For the Grand City Hall in New York
+            G
+    'Twas a wonderful craft
+            D
+    She was rigged fore and aft
+        G                     D
+    And oh, how the wild wind drove her
+              G
+    She stood several blasts
+             Em           C
+    She had twenty seven masts
+             G                     D G
+    And they called her The Irish Rover
+
+[Verse 2]
+           G                                   C
+    We had one million bags of the best Sligo rags
+           G                       D
+    We had two million barrels of stone
+           G                                        C
+    We had three million sides of old blind horses hides
+           G            D          G
+    We had four million barrels of bones
+           G
+    We had five million hogs
+         D
+    And six million dogs
+    G                        D
+    Seven million barrels of porter
+           G                          Em            C
+    We had eight million bails of old nanny-goats' tails
+           G                  D G
+    In the hold of the Irish Rover
+
+[Verse 3]
+           G
+    There was awl Mickey Coote
+                             C
+    Who played hard on his flute
+              G                     D
+    When the ladies lined up for a set
+           G
+    He was tootin' with skill
+               C
+    For each sparkling quadrille
+    G                         D            G
+    Though the dancers were fluther'd and bet
+        G
+    With his smart witty talk
+             D
+    He was cock of the walk
+             G                         D
+    And he rolled the dames under and over
+             G
+    They all knew at a glance
+             Em           C
+    When he took up his stance
+              G                  D G
+    That he sailed in The Irish Rover
+
+
+[Verse 4]
+          G
+    There was Barney McGee
+                           C
+    From the banks of the Lee
+               G                   D
+    There was Hogan from County Tyrone
+                 G
+    There was Johnny McGirr
+                             C
+    Who was scared stiff of work
+            G           D             G
+    And a man from Westmeath called Malone
+        G
+    There was Slugger O'Toole
+              D
+    Who was drunk as a rule
+             G                     D
+    And Fighting Bill Treacy from Dover
+             G
+    And your man, Mick MacCann
+             Em            C
+    From the banks of the Bann
+             G                    D G
+    Was the skipper of the Irish Rover
+
+[Verse 5]
+           G                              C
+    For a sailor it's always a bother in life
+           G                       D
+    It's so lonesome by night and day
+           G
+    That he longs for the shore
+                           C
+    And a charming young whore
+             G              D         G
+    Who will melt all his troubles away
+            G
+    Oh, the noise and the rout
+              D
+    Swillin' poitin and stout
+         G                      D
+    For him soon the torment's over
+             G
+    Of the love of a maid
+           Em      C
+    He is never afraid
+            G                   D G
+    An old salt from the Irish Rover
+
+[Verse 6]
+           G
+    We had sailed seven years
+                            C
+    When the measles broke out
+           G                          D
+    And the ship lost its way in the fog
+           G
+    And that whale of a crew
+           C
+    Was reduced down to two
+            G               D          G
+    Just myself and the Captain's old dog
+              G
+    Then the ship struck a rock
+        D
+    Oh Lord what a shock
+         G                        D
+    The bulkhead was turned right over
+             G
+    Turned nine times around
+              Em               C
+    And the poor old dog was drowned
+              G                D G
+    I'm the last of The Irish Rover
+```
+
+## All For Me Grog
+
+```
+CAPO OFF [Chorus]
+G                            C           G
+And it's all for me grog, me jolly jolly grog
+                      D
+All for me beer and tobacco
+          G             G7          C                G
+Well I've spent all me tin with the ladies drinking gin
+                       D            D7 G
+Far across the western ocean I must wander
+
+[Verse 1]
+G                         C            G
+Where are me boots, me noggin' noggin' boots
+                                D
+They're all gone for beer and tobacco
+          G                  G7          C                G
+For the heels They are worn out and the toes are kicked about
+                          D              D7 G
+And the soles are looking out for better weather
+
+[Verse 2]
+G                     C               G
+Where is me shirt, me noggin' noggin' shirt
+                             D
+It's all gone for beer and tobacco
+            G                G7            C                G
+For the sleeves they've worn out, and the collar's turned about
+                        D              D7 G
+And the tail is looking out for better weather
+
+[Verse 3]
+G                     C               G
+Where is me bed, me noggin' noggin' bed
+                             D
+It's all sold for beer and tobacco
+            G                G7            C                G
+You see I sold it to the girls until the springs were all in twirls
+                               D              D7 G
+And the sheets they're looking out for better weather
+
+[Verse 4]
+G                          C               G
+I'm sick in the head and I haven't been to bed
+                            D
+Since I came ashore with me plunder
+          G              G7             C                G
+I've seen centipedes and snakes And I'm full of pains and aches
+                        D                D7 G
+And I think I"ll make a path for way out yonder
+```
+
+## A Pair of Brown Eyes
+
+```
+[Verse]
+    G                              Am                    C/G
+One summer evening drunk to hell I stood there nearly lifeless
+    G                                  C/G            Am
+An old man in the corner sang where the water lilies grow
+    G                             Am              C/G
+And on the jukebox Johnny sang about a thing called love
+          G          Am        C          G
+And it's how are you kid and what's your name
+     C                    Am
+And how would you bloody know?
+
+[Verse]
+   G                                        Am                 C/G
+In blood and death 'neath a screaming sky I lay down on the ground
+        G                               C/G               Am
+And the arms and legs of other men were scattered all around
+     G                                                 Am                    C/G
+Some cursed, some prayed, some prayed then cursed then prayed and bled some more
+        G     Am        C        G
+And the only thing that I could see
+       G             Am              C       G
+Was a pair of brown eyes that was looking at me
+     G           Am             C            G
+But when we got back, labeled parts one to three
+          G           Am          C         G
+There was no pair of brown eyes waiting for me
+       G        Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+       C             Am
+For a pair of brown eyes
+
+[Instrumental]
+C   C   C   Am   x2
+
+[Verse]
+  G                                   Am             C/G
+I looked at him, he looked at me, all I could do was hate him
+      G                         C/G          Am
+While Ray and Philomena sang of my elusive dream
+  G                                        Am                     C/G
+I saw the streams, the rolling hills where his brown eyes were waiting
+      G        Am       C           G
+And I thought about a pair of brown eyes
+       C           Am
+that waited once for me
+
+[Verse]
+   G                                       Am                     C/G
+So drunk to hell I left the place sometimes crawling sometimes walking
+  G                                        C/G                Am
+A hungry sound came across the breeze so I gave the walls a talking
+      G                             Am           C/G
+And I heard the sounds of long ago from the old canal
+        G           Am       C       G
+And the birds were whistling in the trees
+           C                Am
+Where the wind was gently laughing
+
+[Outro]
+       G        Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+       G        Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+        G       Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+       C             Am
+For a pair of brown eyes
+       C       D     G
+For a pair of brown eyes
+       G        Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+       G        Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+        G       Am        C         G
+And a rovin' a rovin' a rovin' I'll go
+       C             Am
+For a pair of brown eyes
+       C       D     G
+For a pair of brown eyes
+```
+
+## The Rare Auld Mountain Dew
+
+```
+CAPO 2 [Verse 1]
+             C                      F                  C             G
+Where the grasses grow,   And the waters flow,   In a free and easy way
+      C                       F                        C          G     C
+But give me enough,   Of the rare ol' stuff,   That's made near Galway Bay
+        C                   C           C               Am
+Come goughers all,   From Donegal,    Sligo and Leitrim too
+           C                           F                  C          G     C
+And we'll give 'em the slip,And we'll take a sip, Of the rare ol mountain dew
+
+[Chorus]
+       C                    F                     C                     G
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-ey-day
+       C                    F                     C            G         C
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-dum-day
+
+[Verse 2]
+           C                         C
+There's a neat little still At the foot of the hill
+            C                    F
+Where the smoke curls up to the sky
+         C                             F
+By the whiff and the smell, You can plainly tell
+               C      G       C
+That there's poteen brewin' nearby
+         C                      C                C                  F
+For it fills the air, With a perfume rare, And betwixt both me and you
+          C                  F                   C              G      C
+And it's home we go, With a pint or bowl, Or a bucket full a mountain dew
+
+[Chorus]
+       C                    F                     C                     G
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-ey-day
+       C                    F                     C            G         C
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-dum-day
+
+[Verse 3]
+        C               C                    C                   F
+Now learned men,   Who use the pen,   Have written your praises high
+        C                   F                   C          G        C
+Of the rare poteen, From Ireland green, That's made from wheat and rye
+      C                         C                      C                  F
+So, Away with yer pills, It'll cure all ills, Be ya, Pagan, Christian or Jew
+         C                  F                          C            G       C
+So take off yer coat, And grease yer throat, With a bucketfull of mountain dew
+
+[Chorus]
+       C                    F                     C                     G
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-ey-day
+       C                    F                     C            G         C
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-dum-day
+       C                    F                     C                     G
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-ey-day
+       C                    F                     C            G         C
+  Skideri-diddle-dum, Skideri-diddle-dum, Skideri-um-A-di, A-diddle-dum-day
+```
+
+## 100 pints
+
+```
+CAPO 2
+(Chorus)
+C                                                F
+100 Pints of Guinness get your name upon the wall
+C                                                G
+100 Pints of Guinness get your name upon the wall
+C                                                F
+Tell the boss this week won’t be coming in at all
+C                F           G7               C               
+100 Pints of Guinness get your name upon the wall.
+C                F                G7                C
+(instrumental)
+
+(Verse 1)
+C                        Am                        Em
+In the queensland summer there’s a pub upon the hill
+C                        F                        G
+Where the lads and lasses drink the best of Irish Swill
+C                        Am                        Em
+Down old Russell Street just before the tracks,
+C                        F                        G
+A place you’ll find where taps run dark and raucous laughter cracks,
+C                        Am                        Em
+Adventure and glory await who answer the call 
+C                        F                        G7          C
+Drink a hundred pints of Guinness etch their name upon the wall!
+
+
+(Verse 2)
+C                        Am                        Em
+Young Guiso stumbled through the doors upon his 18th year,
+C                        F                        G7
+Saw the board and swore “strewth! I'll have my name right here!”
+C                        Am                        Em
+A brazen youth, he took his first, but soon he came to see,
+C                        F                        G7
+It’s not so simple; the drink be thick —it takes true mastery.
+C                        Am                        Em
+He vowed a quest that day to be the youngest of them all, to
+C                        F                        G7            C
+Drink a hundred pints of Guinness and etch your name upon the wall!
+
+(Chorus)
+
+(Verse 3)
+C                        Am                        Em
+There’s the steady folk, a pint or two when every day is done,
+C                        F                        G7
+They know their pew, as does the crew, their gentle evening run.
+C                        Am                        Em
+The savourer, a mystic soul, delight in every brew,
+C                        F                        G7
+Believin’ every pint contains the rare old mountain dew.
+
+(Bridge)
+C                        Am                        Em
+Oh, that wee old pub on the mountain top is littered with fallen men,
+C                        F                        G7
+Who aimed to sink ten-b-ten but couldn’t rise again.
+C                        Am                        Em
+It takes more than thirst, more than talk, more than fortune’s call,
+C                        F                        G7           C
+To drink 100 pints of Guinness and get your name upon the wall!
+
+(Chorus x2 to finish)
+```
+
+## Wild Rover
+
+```
+[Intro]
+G G C C D D G G (last line of chorus)
+
+[Verse]
+     G         G          G      C  C       G            C        D        G d e f#
+I've been a Wild Rover, for many a year, I've spent all me money on whiskey & beer
+    G          G            G             C   C
+But now I'm re-turning with gold in great store
+      G          C             D        G
+And I never will play the Wild Rover no more
+
+[Chorus]
+         D     D     D      d e f#    G         G         C   C
+And it's no, nay, never (clap x 4), no, nay, never, no more
+       G   G         C    C     D   D     G     G
+Will I play the Wild Rover, No, never, no more
+
+[Verse]
+  G          Em          G         C    C    G           C       D       G d e f#
+I went to an ale house I used to fre-quent & I told the land-lady me money was spent
+  G             G           G            C  C
+I asked her for credit, she answered me “nay,
+       G         C           D       G
+Such a custom as yours I can get any day.” . . .
+
+[Chorus]
+         D     D     D      d e f#    G         G         C   C
+And it's no, nay, never (clap x 4), no, nay, never, no more
+       G   G         C    C     D   D     G     G
+Will I play the Wild Rover, No, never, no more
+
+[Verse]
+  G               Em           G          C   C
+I brought from my pocket, ten sovereigns bright
+        G          C           D            G d e f#
+And the landlady’s eyes opened wide with de-light
+    G            Em          G            C   C
+She said “I have whiskeys & wines of the best
+        G            C             D       G
+And the words that I told you were only in jest.”. . .
+
+[Chorus]
+         D     D     D      d e f#    G         G         C   C
+And it's no, nay, never (clap x 4), no, nay, never, no more
+       G   G         C    C     D   D     G     G
+Will I play the Wild Rover, No, never, no more
+
+[Verse]
+         G             Em              G             C  C
+“You can keep all your whiskey & your beer likewise too
+    G           C          D             G d e f#
+For not another penny am I spending with you
+        G          Em        G           C    C
+For the money I’ve got, I’m taking good care
+      G          C             D        G
+And I never will play the Wild Rover no more.”
+
+[Chorus]
+         D     D     D      d e f#    G         G         C   C
+And it's no, nay, never (clap x 4), no, nay, never,
+   Cchord       Gchord        Cchord     Dchord    Gchord
+No more, will I play the Wild Rover, no, never, no more.
+
+I'll go home to my parents, confess what I've done
+And I'll ask them to pardon their prodigal son
+And when they've caressed me, as oft times before
+I never will play the wild rover no more
+
+CHORUS X2
+```
+
+## I’ll Tell Me Ma
+
+```
+D            G         D
+Tell me, ma, when I go home
+   A                     D
+The boys won't leave the girls alone
+D                       G        D
+They pull my hair, they stole my comb
+A7                    D
+Well, that's alright, 'til I go home
+D     D         G
+She is handsome, she is pretty
+D                   A
+She is the belle of Belfast City
+D     D          G
+She is a-courting one, two, three
+D                 A       D
+Please, won't you tell me who is she?
+ [Verse 1]
+D             G             D
+Albert Mooney says he loves her
+  A                      D
+A' the boys are fighting for her
+D                          G         D
+Knock at the door and they ring that bell
+A7                D
+Oh, my true love, are you well?
+D      D          G
+Out she comes, as white as snow
+D                        A
+Rings on her fingers and bells on her toes
+D         D      G
+Old Johnny Murray says, "She will die
+       D               A              D
+If she doesn't get the fella with the roving eye"
+ [Chorus]
+D            G         D
+Tell me, ma, when I go home
+   A                     D
+The boys won't leave the girls alone
+D                       G        D
+They pull my hair, they stole my comb
+A7                    D
+Well, that's alright, 'til I go home
+D     D         G
+She is handsome, she is pretty
+D                   A
+She is the belle of Belfast City
+D     D          G
+She is a-courting one, two, three
+D                 A       D
+Please, won't you tell me who is she?
+ [Verse 2]
+D                                 G          D
+Let the wind and the rain and the hail blow high
+   A                         D
+And the snow come a-tumbling from the sky
+D                G     D
+She's as nice as apple pie
+   A                        D
+And she'll get her own lad, by and by
+D       D      G
+When she gets a lad of her own
+    D                       A
+She won't tell her ma, 'til she comes home
+D                  G
+Let them all come, as they will
+         D      A      D
+For it's Albert Mooney she loves still
+ [Chorus]
+D            G         D
+Tell me, ma, when I go home
+   A                     D
+The boys won't leave the girls alone
+D                       G        D
+They pull my hair, they stole my comb
+A7                    D
+Well, that's alright, 'til I go home
+D     D         G
+She is handsome, she is pretty
+D                   A
+She is the belle of Belfast City
+D     D          G
+She is a-courting one, two, three
+D                 A       D
+Please, won't you tell me who is she?
+```
+
+## Toss the Feathers
+
+```
+D C repeat
+D A C   (C G G C D) turn around
+```
+
+## The Fields of Athenry
+
+```
+Capo 1
+
+[Verse 1]
+      D                     G                D  A
+By a lonely prison wall I heard a young girl calling
+ D                  G          A
+Michael, they have taken you away
+         D                 G           D                   A
+For you stole Trevelyan's corn so the young might see the morn
+      A                               D
+Now a prison ship lies waiting in the bay
+
+[Chorus]
+D   G       D              Bm       D                                    A
+Low lie the fields of Athenry where once we watched the small free birds fly
+     D               G            D                   A
+Our love was on the wing, we had dreams and songs to sing
+        A                               D
+It's so lonely round the fields of Athenry
+
+[Verse 2]
+      D                    G                D  A
+By a lonely prison wall I heard a young man calling
+ D               G                 A
+Nothing matters Mary, when you're free
+             D              G        D                    A
+Against the famine and the crown I rebelled, they cut me down
+    A                                D
+Now you must raise a child with dignity
+
+[Chorus]
+D   G       D              Bm       D                                    A
+Low lie the fields of Athenry where once we watched the small free birds fly
+     D               G            D                   A
+Our love was on the wing, we had dreams and songs to sing
+        A                               D
+It's so lonely round the fields of Athenry
+
+[Verse 3]
+      D                       G                    D  A
+By a lonely harbour wall she watched the last star falling
+         D                 G              A
+As the prison ship sailed out against the sky
+             D                 G           D               A
+Sure she'll wait and hope and pray for her love in Botany Bay
+        A                               D
+It's so lonely round the fields of Athenry
+
+[Chorus]
+D   G       D              Bm       D                                    A
+Low lie the fields of Athenry where once we watched the small free birds fly
+     D               G            D                   A
+Our love was on the wing, we had dreams and songs to sing
+        A                               D
+It's so lonely round the fields of Athenry
+```
+
+## Seven Drunken Nights
+
+```
+CAPO 2 [Verse 1]
+   G                             			   C
+As I went home on monday night, as drunk as drunk could be
+  G                                   D
+I saw a horse outside the door, where my own horse should be
+     G                                   C
+So I call the wife and I says to her "Would you kindly tell to me:
+    G                                       D                   G
+Who owns that horse outside the door, where my own horse should be?"
+
+[Chorus]
+           G                                                         C
+Ha! You're drunk, you're drunk, you silly old fool. Still you cannot see!
+G                          D
+Thats a lovely sow that me mother sent to me!
+     G                                         C
+Well many a days I traveled a hundred miles or more
+      G                       D          G
+But a sow with a saddle on, I never seen before!
+
+[Verse 2]
+       G                                                    C
+And as I went home on Tuesday night as drunk as drunk could be
+  G                                 D
+I saw a coat behind the door, where my old coat should be
+        G                            C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                    D                  G
+Who owns that coat behind the door where my old coat should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool. Still you can not see!
+G                                D
+That's a woollen blanket that me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+    G                           D         G
+But buttons on a blanket sure I never saw before!
+
+[Verse 3]
+       G                                                      C
+And as I went home on Wednesday night as drunk as drunk could be
+  G                                D
+I saw a pipe up on the chair where my old pipe should be
+        G                                   C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                    D                  G
+Who owns that pipe up on the chair where my old pipe should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool. Still you can not see!
+G                                   D
+That's a lovely tin whistle that me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+    G                               D         G
+But tobacco in a tin whistle sure I never saw before!
+
+[Verse 4]
+       G                                                     C
+And as I went home on Thursday night as drunk as drunk could be
+  G                                   D
+I saw two boots beneath the bed where my old boots should be
+        G                            C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                     D                   G
+Who owns them boots beneath the bed where my old boots should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool, still you can not see!
+G                                   D
+They're two lovely Geranium pots me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+    G                        D         G
+But laces in Geranium pots I never saw before!
+
+[Verse 5]
+       G                                                   C
+And as I went home on Friday night as drunk as drunk could be
+  G                             D
+I saw a head upon the bed where my old head should be
+        G                                 C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                 D                  G
+Who owns that head upon the bed where my old head should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool, still you can not see!
+G                         D
+That's a baby boy that me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+      G                                    D         G
+But a baby boy with his whiskers on sure I never saw before!
+
+[Verse 6]
+       G                                                     C
+And as I went home on Saturday night as drunk as drunk could be
+  G                                    D
+I saw two hands upon her breasts where my old hands should be
+        G                                C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                       D                   G
+Who owns them hands upon your breasts where my old hands should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool, still you can not see!
+G                                  D
+That's a lovely night gown that me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+    G                              D         G
+But fingers in a night gown sure I never saw before!
+
+[Verse 7]
+   G                                                   C
+As I went home on Sunday night as drunk as drunk could be
+  G                              D
+I saw a thing in her thing where my old thing should be
+        G                                C
+Well, I called me wife and I said to her: "Will you kindly tell to me:
+    G                                   D                   G
+Who owns that thing in your thing where my old thing should be?"
+
+[Chorus]
+           G                                                         C
+Ah, you're drunk, you're drunk you silly old fool, still you can not see!
+G                                   D
+That's a lovely tin whistle that me mother sent to me!
+           G                                            C
+Well, it's many a day I've travelled a hundred miles or more
+    G                            D         G
+But hair on a tin whistle sure I never saw before!
+```
+
+## The Rattlin’ Bog
+
+```
+Chorus:
+(G)Rare Bog, the (C)Rattlin Bog, the (G)Bog down in the (D)valley-o
+(G)Rare Bog, the (C)Rattlin Bog, the (G)Bog down in the (D)valley-(G)o
+
+Repeat chorus after each verse
+
+1. Well (G)in that bog there was a hole, a rare hole, a (D)rattlin hole,
+A (G) hole in the bog and the bog down in the (D)valley-(G)
+
+2. Well (G)in that hole there was a tree, a rare tree, a (D)rattlin tree,
+A (G) tree in the hole and the hole in the bog and the bog down in the (D)valley-(G)
+
+3. And (G)on that tree there was a limb, a rare limb, a (D)rattlin limb,
+A (G)limb on the tree and the tree in the hole and the hole in the bog and the bog down
+in the (D)valley-(G)o
+
+4. And (G)on that limb there was a branch, a rare branch, a (D)rattlin branch,
+A (G)branch on the limb and the limb on the tree and the tree in the hole and the hole
+in the bog and the bog down in the (D)valley-(G)o
+
+5. And (G)on that branch there was a twig, a rare twig, a (D)rattlin twig,
+And the (G) twig on the branch and the branch on the limb and the limb on the tree and
+the tree in the hole and the hole in the bog and the bog down in the (D)valley-(G)o
+
+6. And (G)on that twig there was a nest, a rare nest, a (D)rattlin nest,
+And the (G)nest on the twig and the twig on the branch and the branch on the limb and
+the limb on the tree and the tree in the hole and the hole in the bog and the bog down in
+the (D)valley-(G)o
+
+7. And (G)on that nest there was an egg, a rare egg, a (D)rattlin egg,
+And the (G)egg on the nest and the nest on the twig and the twig on the branch and the
+branch on the limb and the limb on the tree and the tree in the hole and the hole in the
+bog and the bog down in the (D)valley-(G)o
+
+8. And (G)on that egg there was a bird, a rare bird, a (D)rattlin bird.
+And the (G)bird on the egg and the egg on the nest and the nest on the twig and the twig
+on the branch and the branch on the limb and the limb on the tree and the tree in the
+hole and the hole in the bog and the bog down in the (D)valley-(G)o
+
+
+9. And (G)on that bird there was a feather, a rare feather, a (D)rattlin feather
+And the (G)feather on the bird and the bird on the egg and the egg on the nest and the
+nest on the twig and the twig on the branch and the branch on the limb and the limb on
+the tree and the tree in the hole and the hole in the bog and the bog down in the (D)valley-(G)o
+
+10. And (G)on that feather there was a flea, a rare flea, a (D)rattlin flea
+And the (G)flea on the feather and the  feather on the bird and the bird on the egg and
+the egg on the nest and the nest on the twig and the twig on the branch and the branch
+on the limb and the limb on the tree and the tree in the hole and the hole in the bog
+and the bog down in the (D)valley-(G)o
+```
+
+## The Parting Glass
+
+```
+CAPO 5
+Am F C G
+Am F C G
+Am F C G
+Am C G C
+C  F  C  G
+Dm G  Am G
+Am F  C  G
+Am C  G  Am
+
+[Verse 1]
+   Am      F          C      G
+Oh all the money that e'er I spent
+   Am      F       C     G
+I spent it in good company
+    Am      F         C         G
+And all the harm that e'er I've done
+Am        C      G        Am
+Alas, it was to none but me
+
+[Chorus 1]
+    C        F        C       G
+And all I've done for want of wit
+   Dm     G      Am     G
+To memory now I can't recall
+   Am      F      C       G
+So fill to me the parting glass
+     Am        C      G        Am
+Good night and joy be with you all
+
+[Verse 2]
+   Am    F         C     G
+If I had money enough to spend
+    Am      F       C     G
+And leisure time to sit awhile
+      Am   F         C       G
+There is a fair maid in this town
+     Am        C      G        Am
+That sorely has my heart beguiled
+
+[Chorus 2]
+    C     F         C     G
+Her rosy cheeks and ruby lips
+   Dm     G      Am        G
+I own she has my heart enthralled
+   Am      F      C       G
+So fill to me the parting glass
+     Am        C      G        Am
+Good night and joy be with you all
+
+[Instrumental]
+Am F C G
+Am F C G
+Am F C G
+Am C G C
+C  F  C  G
+Dm G  Am G
+Am F  C  G
+Am C  G  Am
+
+[Verse 3]
+   Am       F            C         G
+Oh all the comrades that e'er I've had
+        Am    F      C     G
+They're sorry for my going away
+    Am       F               C          G
+And all the sweethearts that e'er I've had
+       Am        C      G        Am
+They’d wish me one more day to stay
+
+[Chorus 3]
+    C        F        C    G
+But since it falls unto my lot
+     Dm        G        Am          G
+That I  should rise and you should not
+     Am      F            C       G
+I'll gently rise and I'll softly call
+     Am        C      G        Am
+Good night and joy be with you all
+
+[Instrumental]
+Am F C G
+Am F C G
+Am F C G
+Am C G Am
+
+[Chorus 4/Outro]
+    C        F        C    G
+But since it falls unto my lot
+     Dm        G        Am          G
+That I  should rise and you should not
+     Am      F            C       G
+I'll gently rise and I'll softly call
+   Am        C      G        Am
+Good night and joy be with you all
+
+
+That’s good craic.
+```
